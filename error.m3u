@@ -629,7 +629,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/8c6fa500258e4428931
 #KODIPROP:inputstream.adaptive.license_key=5adc6dfdcbcf42638a64858190992fab:c036a7b9963ac34d89bbebe3ed071cc0
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8da66660000f4c05921b166bb4cee65e/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/QuocTe/ABC_Big_Kids_All_Aussie.png",ABC Big Kids All Aussie
+#EXTINF:-1#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/QuocTe/ABC_Big_Kida_All_Aussie.png",ABC Big Kids All Aussie
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c13253f2ed45318e5b6e5d799c5956:38ddb989dfb05091db949ce404de52e5
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/94adcb14be98408cbda4b7b404e94fb4/index.mpd
@@ -644,7 +644,7 @@ https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8ca49b4e0bec4bbb84f
 #KODIPROP:inputstream.adaptive.license_key=ceeaf88efed649d898646d151439b6bd:e35e2727d4d8618247c1b2f223ed9cfa
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/72481e65a40b49b59af9f49e29e7b352/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/QuocTe/ABC_Big_Kids.jpg",ABC Big Kids
+#EXTINF:-1#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/QuocTe/ABC_Big_Kids.png",ABC Big Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab4a24725b1c47e7ae3c0f17ab020905:214f5979b5a30a0b3cda03085006a77f
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/f160f706ecde4707ac4003d17d5a17a8/index.mpd
