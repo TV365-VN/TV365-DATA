@@ -658,7 +658,7 @@ https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-id="PBSKidsPacific.us@SD" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/QuocTe/PBS_KIDS.png",PBS Kids Pacific
 https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
 
-#EXTINF:-1 tvg-id="MrBeanAnimated.uk@English" tvg-name="Mr. Bean Anime" group-title="Rakuten" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/mr_bean.png",Mr. Bean Anime
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk@English" tvg-name="Mr. Bean Anime" group-title="Quốc tế" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/QuocTe/MR_BEAN.png",Mr. Bean
 https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MysteryTV.us@UK" tvg-name="Mystery TV" group-title="Rakuten" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/mystery1.png",Mystery TV
