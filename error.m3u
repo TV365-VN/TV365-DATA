@@ -723,18 +723,18 @@ https://d2z0ysa6dgxhlc.cloudfront.net/kchan.m3u8
 https://dwqz6akge0ila.cloudfront.net/v1/aenetworks_mysteriesxplored_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="OutdoorAmerica.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/OutdoorAmerica.png" group-title="Samsung TV",Outdoor America
 https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="OutsideTV.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/OutsideTV-Photoroom.png" group-title="Samsung TV",Outside TV
+#EXTINF:-1 tvg-id="OutsideTV.us@SD" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/QuocTe/Outside_TV.png" group-title="Quốc tế",Outside TV
 https://desdobebr2wri.cloudfront.net/Outside.m3u8
-#EXTINF:-1 tvg-id="RevandRoll.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/rovroll.png" group-title="Samsung TV",Rev and Roll
+#EXTINF:-1 tvg-id="RevandRoll.us@SD" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/QuocTe/Rev_and_Roll.png" group-title="Quốc tế",Rev and Roll
 https://d39nqr4d4h6cv6.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/Sonic.png" group-title="Samsung TV",Sonic The Hedgehog
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/QuocTe/Sonic_The_Hedgehog.png" group-title="Quốc tế",Sonic The Hedgehog
 https://dtwdcugadwtnw.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/667f393836a2f90008fd17c0/colorLogoPNG_1753982261322.png" group-title="Samsung TV",Strawberry Shortcake
 https://d2tdny619yw5x1.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="LegoChannel.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/TheLEGOChannel.png" group-title="Samsung TV",The LEGO Channel
+#EXTINF:-1 tvg-id="LegoChannel.us@SD" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/QuocTe/The_LEGO_Channel.png" group-title="Quốc tế",The LEGO Channel
 https://dh18i7whff86v.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-id="WildEarth.za@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/WildEarth.png" group-title="Samsung TV",WildEarth
+#EXTINF:-1 tvg-id="WildEarth.za@SD" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/QuocTe/WildEarth.png" group-title="Quốc tế",WildEarth
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
 #EXTINF:-1 tvg-id="mjh-abc-tv-plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/500px-ABC_TV_Plus_logo_2021.svg.png" group-title="Samsung TV",ABC TV Plus
 https://c.mjh.nz/abc-tv-plus.m3u8
