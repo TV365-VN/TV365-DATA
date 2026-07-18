@@ -733,13 +733,12 @@ https://dtwdcugadwtnw.cloudfront.net/master.m3u8
 https://d2tdny619yw5x1.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="LegoChannel.us@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/TheLEGOChannel.png" group-title="Samsung TV",The LEGO Channel
 https://dh18i7whff86v.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/VanHelsing.png" group-title="Samsung TV",Van Helsing
-https://dfis0p7athkt.cloudfront.net/Van_Helsing.m3u8
+
 #EXTINF:-1 tvg-id="WildEarth.za@SD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/WildEarth.png" group-title="Samsung TV",WildEarth
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
 #EXTINF:-1 tvg-id="mjh-abc-tv-plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/500px-ABC_TV_Plus_logo_2021.svg.png" group-title="Samsung TV",ABC TV Plus
 https://c.mjh.nz/abc-tv-plus.m3u8
-#EXTINF:-1 tvg-id="TomAndJerry.do@HD" tvg-logo="https://raw.githubusercontent.com/hieu-TQS/picture/main/tom.png" group-title="Samsung TV",Tom And Jerry
+#EXTINF:-1 tvg-id="TomAndJerry.do@HD" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/QuocTe/Tom And Jerry.png" group-title="Quốc tế",Tom And Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="plex.tv.RetroCrush.plex" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="Samsung TV",RetroCrush
 https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
