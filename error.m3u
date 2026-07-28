@@ -463,8 +463,7 @@ https://qpvn.vn/live/qpvn/master.m3u8
 #EXTINF:-1 tvg-id="youtv" group-title="Thiết yếu" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/ThietYeu/YOUTV.png", YouTV
 https://freem3u.xyz/api/live/play.m3u8?vid=31
 #EXTINF:-1 tvg-id="hitv" group-title="Thiết yếu" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/ThietYeu/HITV.png",HITV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hitv/KenhCoBan.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=32
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/HTV/htv1.png" group-title="HTV",HTV1
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
 #EXTINF:-1  tvg-id="htv2hd" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/HTV/htv2.png" group-title="HTV",HTV2
