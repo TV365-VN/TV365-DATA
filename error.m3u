@@ -463,8 +463,7 @@ https://qpvn.vn/live/qpvn/master.m3u8
 #EXTINF:-1 tvg-id="youtv" group-title="Thiết yếu" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/ThietYeu/YOUTV.png", YouTV
 https://freem3u.xyz/api/live/play.m3u8?vid=31
 #EXTINF:-1 tvg-id="hitv" group-title="Thiết yếu" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/ThietYeu/HITV.png",HITV
-http://27.67.80.80:18080/332.m3u8?AdaptiveType=HLS&VOD_RequestID=KwPcF1kqdudRNjQp6MsKOH2JExmQt4dTxAi6lLA4r7RUwulQ1x/sgoGG0YTO++hFv8zlhuX4eIU3SB5Ha/YHmq7HyS0niQYfDFO+A9M2zdaVsC/ofM4VdcodkQTCd4e5E9TvsTLIhiYdTnMKK8alGTwnftvNX5I6I3J5JOYf1lPSWi2c8LzLyzrUflpadupQIE9SyBd6U16tmOEs55CWWQ==&uid=19680&SessionID=fe42d925-9ea9-4d77-b7a9-9bb8a92eca19&StreamID=5463be1c-6afb-4849-a5a7-cc9bab84e1aa&MinBw=0&MaxBw=4500000
-
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hitv/KenhCoBan.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/HTV/htv1.png" group-title="HTV",HTV1
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
 #EXTINF:-1  tvg-id="htv2hd" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/HTV/htv2.png" group-title="HTV",HTV2
