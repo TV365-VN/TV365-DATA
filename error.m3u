@@ -309,12 +309,7 @@ https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b2500000.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s14Sp1pCpvkYRyOpD/QtnA","kid":"7nkVVk10OdCb01Vv/MyHpA"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
-#EXTINF:-1 tvg-id="woman" group-title="Quốc tế" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/QuocTe/Woman.png",Woman
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2942ed303e0d40c9b99c94c587bbf509:96cda24109734fb7920d799d58d1a9ae
-https://livevlisctcdnw.seenow.vn/livesnv2/WO/manifest.mpd
+
 #EXTINF:-1 tvg-id="musicbox" group-title="Quốc tế" tvg-logo="https://raw.githubusercontent.com/TV365-VN/TV365-LOGO/main/logo/QuocTe/MusicBox.png",Music Box
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
